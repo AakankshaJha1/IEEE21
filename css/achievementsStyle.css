@@ -158,6 +158,16 @@
     /* padding-right: 5px; */
     object-fit:cover;
 }
+.heading{
+  padding-top: 100px;
+  font-size: 45px;
+  text-align: center;
+  font-family: 'Concert One', cursive;
+}
+.text-heading{
+  text-align: center;
+  font-size: 18px;
+}
 
 footer {
     margin-top: 150px;
